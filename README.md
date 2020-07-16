@@ -1,4 +1,5 @@
-# Udacity Capstone Project
+<table><tr><td><img src="data/udacity1.jpg" width=100/> </td>
+	<td><h2>Flower Image Classifier</h2><h4>Udacity Capstone Project </h4></td></tr></table>
 
 ### AI Progamming with Python Nanodegree Program
 
